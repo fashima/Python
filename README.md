@@ -10,5 +10,7 @@
 <p>I have designed this program to operate with a While loop of greater complexity. Now, I have two variables (x and y); as variable x is incremented, variable y is simultaneously decremented.</p>
 <h2>[Project 005] Bank Account</h2>
 <p>I designed this program to simulate a simple ATM operation. There are 4 actions built with if/else condition and while loop. One of my favorite projects so far</p>
+<h2>[Project 006] Bible Verses Generator</h2>
+<p>As a Christian, my heart delights in God. For a long time I think about what I can create to honor and share God's word. This simple program is one of the answers to this search.</p>
 
 
