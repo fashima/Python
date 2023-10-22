@@ -14,6 +14,8 @@
 <p>As a Christian, my heart delights in God. For a long time I think about what I can create to honor and share God's word. This simple program is one of the answers to this search.</p>
 <h2>[Project 007] Password Generator</h2>
 <p>Unfortunately, Internet users are unable to create strong passwords. I have seen many reports in the news about people being hacked every day and the most common mistake they make is a weak password. I developed this program to help people create a better password.</p>
+<h2>[Project 008] BR Employee Payroll</h2>
+<p>One of the most difficult projects I've had to do. Calculating an employee's payroll following Brazilian legislation is very difficult and complex. I used the if/else statement a lot and I know I need to refactor this code, perhaps creating functions to do most of the calculation, but I don't have consistent knowledge about it, and understanding the calculation and translating it to the computer was the highlight of this project . Victory!!!</p>
 
 
 
