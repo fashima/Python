@@ -12,5 +12,8 @@
 <p>I designed this program to simulate a simple ATM operation. There are 4 actions built with if/else condition and while loop. One of my favorite projects so far</p>
 <h2>[Project 006] Bible Verses Generator</h2>
 <p>As a Christian, my heart delights in God. For a long time I think about what I can create to honor and share God's word. This simple program is one of the answers to this search.</p>
+<h2>[Project 007] Password Generator</h2>
+<p>Unfortunately, Internet users are unable to create strong passwords. I have seen many reports in the news about people being hacked every day and the most common mistake they make is a weak password. I developed this program to help people create a better password.</p>
+
 
 
