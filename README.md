@@ -17,6 +17,8 @@
 <p>Unfortunately, Internet users are unable to create strong passwords. I have seen many reports in the news about people being hacked every day and the most common mistake they make is a weak password. I developed this program to help people create a better password.</p>
 <h2>[Project 008] BR Employee Payroll</h2>
 <p>One of the most difficult projects I've had to do. Calculating an employee's payroll following Brazilian legislation is very difficult and complex. I used the if/else statement a lot and I know I need to refactor this code, perhaps creating functions to do most of the calculation, but I don't have consistent knowledge about it, and understanding the calculation and translating it to the computer was the highlight of this project . Victory!!!</p>
+<h2>[Project 009] Car Rent</h2>
+<p>This project was challenging. Requires a lot of knowledge of the python language, such as list, tuples and if/else.</p>
 
 
 
